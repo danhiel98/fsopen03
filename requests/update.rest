@@ -1,0 +1,7 @@
+PUT http://localhost:3001/api/persons/65cd95defa76baa517314bc8
+Content-Type: application/json
+
+{
+    "name": "Validated update",
+    "number": "+1-000-1111-2222"
+}
